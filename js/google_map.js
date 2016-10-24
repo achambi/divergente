@@ -34,7 +34,7 @@ function init() {
     var marker = new google.maps.Marker({
         position: myLatlng,
         map: map,
-        icon: 'images/loc.png'
+        icon: 'images/location.png'
     });
     marker.setMap(map);
 }
